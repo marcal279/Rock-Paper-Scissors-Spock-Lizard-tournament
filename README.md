@@ -45,5 +45,5 @@ Input:
 2 L
 
 Output:
-WINNER: Player 2
+WINNER: Player 2; 
 Matches against Players: 6 5 1
