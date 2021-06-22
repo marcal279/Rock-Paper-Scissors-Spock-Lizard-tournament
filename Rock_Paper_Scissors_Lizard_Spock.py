@@ -1,9 +1,6 @@
 import math
 import copy
 
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
-
 def winner_loser(a_id,a,b_id,b):
     rules=[['C','P'],
     ['P','R'],
